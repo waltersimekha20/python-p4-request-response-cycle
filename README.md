@@ -427,10 +427,16 @@ if __name__ == '__main__':
 ## Resources
 
 - [API - Pallets Projects](https://flask.palletsprojects.com/en/2.2.x/api/)
+
+
 - [HTTP request methods - Mozilla][moz_http]
+
 - [HTTP response status codes - Mozilla][moz_http_status]
+
 - [Response Objects - Pallets Projects][response]
 
 [moz_http]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
 [moz_http_status]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
 [response]: https://flask.palletsprojects.com/en/2.2.x/api/#response-objects
